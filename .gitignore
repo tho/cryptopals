@@ -1,0 +1,7 @@
+# Swap files
+*.sw[op]
+
+# CMake output paths
+/bin/
+/build/
+/lib/
